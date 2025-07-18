@@ -83,7 +83,7 @@ Logs:
 ## 🖼 Screenshot
 Here’s an example of the script in action:
 
-![Short Link Bypasser Screenshot](https://github.com/Ca3s4rX/images/blob/main/short_link_bypasser.png)
+![Short Link Bypasser Screenshot](./short_link_bypasser.png)
 
 ---
 
