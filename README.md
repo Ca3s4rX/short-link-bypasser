@@ -34,10 +34,10 @@ python short_link_bypasser.py https://linkjust.com/1KEvtFiwr
 
 If no URL is provided, the script displays usage instructions:
 ```
-+--------------------------------------------------------------+
-| Requirements ==> pip install httpx[http2] beautifulsoup4     |
++------------------------------------------------------------------------+
+| Requirements ==> pip install httpx[http2] beautifulsoup4               |
 | Usage ==> python short_link_bypasser.py https://linkjust.com/1KEvtFiwr |
-+--------------------------------------------------------------+
++------------------------------------------------------------------------+
 ```
 
 ---
@@ -60,14 +60,14 @@ You can add more websites by extending this dictionary.
 
 ## 🔍 Example Output
 ```
-+--------------------------------------+
-|               CONFIGS                |
-+-------------------+------------------+
-| Host              | linkjust.com     |
-| Number of Requests| 2                |
-| Delay             | 5                |
-| Referer           | https://forexrw7.com/ |
-+-------------------+------------------+
++--------------------------------------------+
+|                  CONFIGS                   |
++--------------------+-----------------------+
+| Host               | linkjust.com          |
+| Number of Requests | 2                     |
+| Delay              | 5                     |
+| Referer            | https://forexrw7.com/ |
++--------------------+-----------------------+
 
 Logs:
 ======
