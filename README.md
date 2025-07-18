@@ -83,12 +83,11 @@ Logs:
 ## 🖼 Screenshot
 Here’s an example of the script in action:
 
-![Short Link Bypasser Screenshot](./assets/screenshot.png)
+![Short Link Bypasser Screenshot](https://github.com/Ca3s4rX/images/blob/main/short_link_bypasser.png)
 
-> Save a screenshot of your terminal output as `assets/screenshot.png`.
-
+---
 
 ## ⭐ Support
 If you find this project helpful, please consider giving it a **star** on GitHub!
 
-[![Star](https://img.shields.io/github/stars/your-username/short-link-bypasser?style=social)](https://github.com/your-username/short-link-bypasser)
+[![Star](https://img.shields.io/github/stars/Ca3s4rX/short-link-bypasser?style=social)](https://github.com/Ca3s4rX/short-link-bypasser)
