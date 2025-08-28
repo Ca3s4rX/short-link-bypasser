@@ -11,7 +11,7 @@ headers = {
 websites = {
     "linkjust.com": {
         "second_url": "https://linkjust.com/links/go",
-        "referer": "https://forexrw7.com/",
+        "referer": "https://insurance.mastercaash.online/",
         "delay": 5,
         "requsts_number": 2,
     }
@@ -211,3 +211,4 @@ if __name__ == "__main__":
         exit()
     url = argv[1]
     bypasser(url)
+
